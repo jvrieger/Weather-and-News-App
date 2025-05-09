@@ -1,0 +1,68 @@
+/* Weather Section Styles */
+.weather-section {
+    color: white;
+}
+
+.weather-display {
+    color: white;
+    background-color: rgb(205, 247, 247);
+    margin-top: 20px;
+    padding-top: 10px;
+    border-radius: 4px;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    
+}
+
+.weather.main {
+    color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.weather-location {
+    color: rgb(109, 109, 217);
+    font-size: 1.2rem;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    line-height: 10px;
+}
+
+.coordinates {
+    color: #a89bef;
+    font-size: 1rem;
+    margin-top: 1px;
+}
+
+.weather-icon {
+    line-height: 0px;
+    margin: 0px;
+    background-color: #a8d3d3;
+}
+
+.weather-img {
+    line-height: 0px;
+    margin: 0px;
+}
+
+.weather-details {
+    color: rgb(106, 92, 210);
+    line-height: 5px;
+}
+
+.temperature {
+    font-size: 30px;
+}
+
+.description {
+    padding-bottom: 10px;
+}
+
+.feels-like {
+    color: rgb(167, 152, 212);
+}
+
+.secondary-details {
+    color: rgb(167, 152, 212);
+
+}

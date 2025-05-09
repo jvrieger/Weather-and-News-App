@@ -1,13 +1,13 @@
 import './App.css'
-import NewsHeader from './components/NewsHeader'
 import WeatherSection from './components/WeatherSection'
+import NewsSection from './components/NewsSection'
 
 function App() {
 
   return (
     <>
-      <NewsHeader/>
       <WeatherSection/>
+      <NewsSection/>
     </>
   )
 }
